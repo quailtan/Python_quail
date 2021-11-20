@@ -1,7 +1,10 @@
-a = input("Enter your age")
+# a = input("Enter your age")
 
-print(type(a))
+# print(type(a))
 
-int(a)
+# int(a)
+# 
+# print(type(    int(a)   )  )
 
-print(type(    int(a)   )  )
+x = int(  input("請輸入任意正整數") )
+print()
